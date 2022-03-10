@@ -30,7 +30,7 @@ To integrate app-to-app authentication with CamDigiKey app, a client must have a
 
 ---
 
-## 2. Create a Protocol for CamDigiKey delegate function
+## 2. Create a Protocol for CamDigiKey delegate functions
 
 ```swift
 protocol CamDigiKeyClientDelegate {
